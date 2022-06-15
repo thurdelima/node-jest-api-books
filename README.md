@@ -2,7 +2,7 @@
 
 Api created by node with unit test in jest. Create users and books for give and rent.
 
-## 💡 Project and endpints
+## 💡 Project and endpoints
 
 Import file called endpoints_collection_backend_books.json in your insomnia or postman.
 
